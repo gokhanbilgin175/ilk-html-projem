@@ -1,1 +1,1 @@
-[patika.dev](https://patika.dev)
+[html ilk projem](https://github.com/gokhanbilgin175/ilk-html-projem)
